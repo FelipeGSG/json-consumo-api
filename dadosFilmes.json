@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nome": "Vingadores Guerra Infinita",
+        "duracao": "2h29m",
+        "lancamento": "26/04/2018",
+        "avaliacao": "89% de aprovação",
+        "imagem": "<img src='https://br.web.img2.acsta.net/pictures/18/03/16/15/08/2019826.jpg' width='300px'>"
+    },
+    {
+        "id": 2,
+        "nome": "O Resgate do Soldade Ryan",
+        "duracao": "2h50m",
+        "lancamento": "05/03/1999",
+        "avaliacao": "91% de aprovação",
+        "imagem": "<img src='https://m.media-amazon.com/images/S/pv-target-images/5557055455d833454a02486f8cf10d3ddbe105de08ca76fa8c72cf2f92ef8879.jpg' width='300px'>"
+    },
+    {
+        "id": 3,
+        "nome": "It - A Coisa",
+        "duracao": "2h15m",
+        "lancamento": "07/09/2017",
+        "avaliacao": "80% de aprovação",
+        "imagem": "<img src='https://musicart.xboxlive.com/7/b77e4900-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080' width='300px'>"
+    },
+    {
+        "id": 4,
+        "nome": "Mulan",
+        "duracao": "1h28m",
+        "lancamento": "05/06/1998",
+        "avaliacao": "78% de aprovação",
+        "imagem": "<img src='https://i.pinimg.com/originals/5a/cd/23/5acd232e4b872e1c721f61fa08f38bf3.jpg' width='300px'>"
+    },
+    {
+        "id": 5, 
+        "nome": "O Auto da Compadecida",
+        "duracao": "1h44m",
+        "lancamento": "10/09/2000",
+        "avaliacao": "93% gostaram desse filme",
+        "imagem": "<img src='https://images-americanas.b2w.io/produtos/220856/imagens/dvd-o-auto-da-compadecida/220856_1_xlarge.jpg' width='300px'>"
+    },
+    {
+        "id": 6, 
+        "nome": "Guardiões da Galáxia",
+        "duracao": "2h2m",
+        "lancamento": "31/07/2014",
+        "avaliacao": "88% gostaram desse filme",
+        "imagem": "<img src='https://br.web.img3.acsta.net/pictures/14/06/03/21/11/122582.jpg' width='300px'>"
+    }
+]

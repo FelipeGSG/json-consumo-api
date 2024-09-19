@@ -1,0 +1,87 @@
+[
+  {
+    "cpf" : 11133355577,
+    "nome" : "Alberto",
+    "idade" : "17",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/4440/4440953.png'>",
+    "cargo" : "Estudante"
+  },
+    {
+    "cpf" : 22244466688,
+    "nome" : "Bruna",
+    "idade" : "23",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/7013/7013477.png'>",
+    "cargo" : "Médica"
+  },
+    {
+    "cpf" : 12345678900,
+    "nome" : "Carlos",
+    "idade" : "35",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/6076/6076526.png'>",
+    "cargo" : "Empresário"
+  },
+    {
+    "cpf" : 98765432100,
+    "nome" : "Daniele",
+    "idade" : "42",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/921/921053.png'>",
+    "cargo" : "Professora"
+  },
+    {
+    "cpf" : 13243546576,
+    "nome" : "Eduardo",
+    "idade" : "40",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/3048/3048124.png'>",
+    "cargo" : "Advogado"
+  },
+    {
+    "cpf" : 97867564534,
+    "nome" : "Fernanda",
+    "idade" : "26",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/256/921/921038.png'>",  
+    "cargo" : "Gerente"
+  },
+    {
+    "cpf" : 12345987600,
+    "nome" : "Gabriel",
+    "idade" : "21",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/2793/2793541.png'>",
+    "cargo" : "Estudante"
+  },
+
+    {
+    "cpf" : 11122233344,
+    "nome" : "Helena",
+    "idade" : "26",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/256/921/921009.png'>",
+    "cargo" : "Empresária"
+  },
+    {
+    "cpf" : 99988877766,
+    "nome" : "Igor",
+    "idade" : "28",
+    "imagem" : "<img class='icone' src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTekDgRglIYVkUptE_2BiGxSYoMKu5qCLwNgZCYJT4SISOXuAAhqZVq3ES2fyq2n3l4Avs&usqp=CAU'>",
+    "cargo" : "Professor"
+  },
+  {
+    "cpf" : 12123434565,
+    "nome" : "Joana",
+    "idade" : "50",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/933/933405.png'>",
+    "cargo" : "Veterinária"
+  },
+    {
+    "cpf" : 98987676545,
+    "nome" : "Kaliel",
+    "idade" : "34",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/6542/6542633.png'>",
+    "cargo" : "Astronauta"
+  },
+      {
+    "cpf" : 88224646210,
+    "nome" : "Luana",
+    "idade" : "34",
+    "imagem" : "<img class='icone' src='https://cdn-icons-png.flaticon.com/512/8697/8697643.png'>",
+    "cargo" : "Astronauta"
+  }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "produto": "Kit lápis de cor 12 cores",
+        "imagem": "<img class='produto' src='https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcThZm84pRn0IallEfi8p1eczJZgviwEKE9ZTdq_navbP622cM1FaveNpvD-YFL8AIqG5CLZjG1tENTGIUFd11gNaHJ7vbEoRZSeDctAi0iUq-lyVt3NsGDQhw&usqp=CAE' width='300' height='300'>",
+        "preco": 50.00,
+        "estoque": 15
+    },
+    {
+        "id": 2,
+        "produto": "Kit tinta guache 12 cores",
+        "imagem": "<img class='produto' src='https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQe4dWx-8M_6PBMDe3fkX-K6cvT0OOL97tWtHstYYr4L1QmxqIr3uWo_-auLLluRoHFQFqvbfHwg-75r8iFpI0FobZ4P0_VR4e00-msf9UJdDlPjFKeAQ4_wA&usqp=CAE' width='300' height='300'>",
+        "preco": 15.00,
+        "estoque": 18
+    },
+    {
+        "id": 3,
+        "produto": "Kit pincel de pintura",
+        "imagem": "<img class='produto' src='https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRLCjZwrNhQdDMRj7VYfYmmXttlDoU36qh0RPgU6F6jg2ew_XG61xwcUSxj5M08mERtuma6xqbboLfnDiAYIbHMLAiSyjCKVGZxuOXulT8PwA0y1wVFujUk0Q&usqp=CAE' width='300' height='300'>",
+        "preco": 18.50,
+        "estoque": 8
+    },
+    {
+        "id": 4,
+        "produto": "Borracha Faber-Castell",
+        "imagem": "<img class='produto' src='https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQaLgiGG3Qe7dcblYPLfwzmzsQntMhVav05TXhgtmLVmHTI2fUsOhN0z8YlfXAxEf7xa8ZLNWiOT79hiiBjMfKXYtXAi3_J3xDfvgLB-a32lOAzlJV-9IWu&usqp=CAE' width='300' height='300'>",
+        "preco": 7.50,
+        "estoque": 32
+    },
+    {
+        "id": 5,
+        "produto": "Lapiseira 0,7mm",
+        "imagem": "<img class='produto' src='https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRMBMV7AykGX-yCWrciaY_AOcSJZjOjMueFSWc7qxEqlNlM07aF9MF1Le8VGdT6UG6p0CIDmsDAMqeIGSCysxWgrOViH9OHw0Otha42Me7_WpvmK-iubHqW&usqp=CAE' width='300' height='300'>",
+        "preco": 8.79,
+        "estoque": 14
+    },
+    {
+        "id": 6,
+        "produto": "Eva com Glitter",
+        "imagem": "<img class='produto' src='https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRDaGBN7TSyLeCUjF7f26gDww0G_zP68kvYF_2zA_76ER-30g4HZFgNEW5UDUp5xv9jDqFyEQzl_-MzPBBaPSR3h0nmOlE8IA&usqp=CAE' width='300' height='300'>",
+        "preco": 21.99,
+        "estoque": 10
+    }
+]
